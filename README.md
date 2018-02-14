@@ -7,8 +7,8 @@
 - map
 
 ### Todos
--online help center
--online car repair checklist
+- online help center
+- online car repair checklist
 
 License
 ----
